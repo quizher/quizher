@@ -12,6 +12,8 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 <br>
 
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">]
+
 - Un apasionado desarrollador back-end autodidacta.
 - Actualmente aprendiendo front-end por cuenta propia.
 
